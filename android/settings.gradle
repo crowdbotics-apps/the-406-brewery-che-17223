@@ -1,0 +1,3 @@
+rootProject.name = 'the_406_brewery_che_17223'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
